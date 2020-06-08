@@ -6,10 +6,10 @@
     font-family: $serif-secondary;
     letter-spacing: 0.5px;
     text-align: center;
-    padding: 1rem;
+    padding: 1rem 0;
 
     span {
-      font-style: italic;
+      font-style: normal;
     }
   }
 
@@ -24,7 +24,7 @@
   &-line {
     border-top: 0.4rem solid $default-shade;
     display: block;
-    margin: 0 auto 1rem;
+    margin: 0 auto 0.5rem;
     width: 4rem;
   }
 
