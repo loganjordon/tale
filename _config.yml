@@ -2,6 +2,10 @@
 title:          Logan Jordon
 description:    "Games, Fiction, Code, Christ"
 url:            "https://www.loganjordon.com"
+non_posts:
+  - '404'
+  - 'About'
+  - 'Archive'
 
 # Google Analytics (set up later)
 google_analytics: UA—XXXXXXXX-X

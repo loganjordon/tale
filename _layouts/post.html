@@ -1,26 +1,37 @@
 ---
 layout: default
 ---
-
 <div class="post">
+  {% assign postable = true %}
+  {% for name in site.non_posts %}
+    {% if page.title == name %}
+      {% assign postable = false %}
+    {% endif %}
+  {% endfor %}
   <h1 class="post-title">{{ page.title }}</h1>
   <div class="post-line"></div>
   <div class="post-info">
-    <span>Written by</span>
-    {% if page.author %}
-        {{ page.author }}
-    {% else %}
-        {{ site.author.name }}
-    {% endif %}
 
-    {% if page.date %}
-      <br>
-      <time datetime="{{ page.date }}">{{ page.date | date: "%B %d, %Y" }}</time>
+    {% if postable %}
+      <span>Written by</span>
+      {% if page.author %}
+          {{ page.author }}
+      {% else %}
+          {{ site.author.name }}
+      {% endif %}
+    
+
+      {% if page.date %}
+        <br>
+        <time datetime="{{ page.date }}">{{ page.date | date: "%B %d, %Y" }}</time>
+      {% endif %}
     {% endif %}
   </div>
 
   {{ content }}
-  {% include related.html %}
+  {% if postable %}
+    {% include related.html %}
+  {% endif %}
 </div>
 
 <div class="pagination">
