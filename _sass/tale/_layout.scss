@@ -65,10 +65,13 @@ footer,
     font-family: $sans-serif;
   }
 
-  img {
+  img, input {
     margin-bottom: -3px;
     width: 14px;
+  }
 
+  input {
+    outline-width: 0;
   }
 }
 
@@ -84,8 +87,12 @@ footer,
       right: 0;
     }
 
-    img {
+    img, input {
       width: 20px;
+    }
+
+    input {
+      outline-width: 0;
     }
   }
 }
