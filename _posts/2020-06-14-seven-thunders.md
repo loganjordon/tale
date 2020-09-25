@@ -9,6 +9,7 @@ tags:
   - journal
   - john
   - scripture
+published: false
 ---
 
 **The following is a journal entry from February 7th of this year.**
