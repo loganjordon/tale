@@ -1,4 +1,9 @@
 <head>
+    <!-- Google Analytics-->
+  {% if site.google_analytics and jekyll.environment == 'production' %}
+    {% include analytics.html %}
+  {% endif %}
+  
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
@@ -16,9 +21,4 @@
 
   <!-- RSS -->
   {% feed_meta %}
-
-  <!-- Google Analytics-->
-  {% if site.google_analytics and jekyll.environment == 'production' %}
-    {% include analytics.html %}
-  {% endif %}
 </head>

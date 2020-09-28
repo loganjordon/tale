@@ -28,10 +28,16 @@ layout: default
     {% endif %}
   </div>
 
+  {% if page.image %}
+    <img src="{{ page.image }}">
+    <br>
+  {% endif %}
+
   {{ content }}
+
   {% if postable %}
-    <!-- {% include related.html %} -->
     {% include tweet_share_button.html %}
+    <!-- {% include related.html %} -->
   {% endif %}
 </div>
 
