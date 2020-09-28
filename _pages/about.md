@@ -8,11 +8,11 @@ Howdy, I'm Logan Jordon. I am a Christian, a Calvinist, a software developer, a 
 
 Here, you will find articles, stories, and scriptural and doctinal discussion. Let me know what you think by sending me a message on <a href="https://twitter.com/intent/tweet?screen_name=loganrjordon&ref_src=twsrc%5Etfw">Twitter</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>.
 
-For business inquiries: <button id="disappear" onclick="myFunction()">Click for email</button><a id="demo"></a>
+<!-- For business inquiries: <button id="disappear" onclick="myFunction()">Click for email</button><a id="demo"></a>
 
 <script>
 function myFunction() {
   document.getElementById("demo").innerHTML = "logan@loganjordon.com";
   document.getElementById("disappear").style.display="none";
 }
-</script>
+</script> -->
