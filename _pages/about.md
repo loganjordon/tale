@@ -12,5 +12,5 @@ To write with the aim of increasing your knowledge of the Lord, and your desire 
 
 <a href="http://eepurl.com/heJUTb" target="_blank">Subscribe</a> to get my latest posts mailed directly to your inbox!
 
-## Have a question or comment?
-Ask me anything by sending a message on <a href="https://twitter.com/intent/tweet?screen_name=loganrjordon&ref_src=twsrc%5Etfw">Twitter</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>, or shooting an email to logan@loganjordon.com.
+## Have a question, comment, or prayer request?
+Send me an email: logan@loganjordon.com.
