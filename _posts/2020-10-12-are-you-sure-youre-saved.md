@@ -140,13 +140,13 @@ If you are a true Christian, you have 100% of the Holy Spirit in you always, and
 
 ## How did you do?
 
-1. Do you enjoy fellowship?
+1. Do you engage in fellowship?
 2. Do you know that you're a sinner?
 3. Do you keep God's commandments?
 4. Do you love Christ more than the world?
 5. Do you believe that Jesus is the Son of God?
 6. Are you longing for the return of Christ?
-7. Are you habitually sinning?
+7. Have your sinful habits stopped?
 8. Do you love fellow believers?
 9. Do you love reading the Bible?
 10. Does God abide in your through the Holy Spirit?
