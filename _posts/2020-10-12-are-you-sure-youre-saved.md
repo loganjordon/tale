@@ -30,7 +30,7 @@ The sad fact is that there will be some who read this article who think they're 
 
 If you don't think you're saved, but want to be---send me an [email](/contact)! I would love to help you find Christ today.
 
-Here are ten questions that every self-proclaiming Christian should ask themself to confirm their salvation.
+Here are ten questions that every self-proclaiming Christian should ask themself to confirm their salvation[^1].
 
 <br>
 
@@ -162,3 +162,10 @@ Jesus told Peter, "but I have prayed for you that your faith may not fail" (Luke
 Whether you're a Christian who has fallen away or someone who has never been saved before, come to Jesus today. Right now. Go into a room, alone, and repent. Ask for forgiveness and you will receive it.
 
 > Romans 10:13 --- For “everyone who calls on the name of the Lord will be saved.” (ESV)
+
+<br>
+
+<hr>
+**Footnotes:**
+
+[^1]: These questions were inspiried by Todd Friel's "Ten point test to see if you are saved".
