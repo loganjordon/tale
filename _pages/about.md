@@ -2,6 +2,8 @@
 layout: post
 title: "About"
 permalink: /about
+image: "/assets/images/l-cropped2.jpg"
+image_avif: "/assets/images/l-cropped2.avif"
 ---
 
 {%   assign today = site.time | date: '%s'      %}
