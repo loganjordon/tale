@@ -20,9 +20,9 @@ This is completely illogical, and it's not hard to see that.
 
 ## Truth Requires Objectivity
 
-One of the first laws you learn in philosophy is the <a href="https://en.wikipedia.org/wiki/Law_of_noncontradiction" target="_blank">law of noncontradiction</a>. It's the prime rule for rationality. This rule states that 'A' can't be 'A' and 'non-A' at the same time and in the same relationship. This means that 2+2 can't equal 4 *and* 5. It has to be one, the other, or neither, but it can't be both.
+One of the first laws you learn in philosophy is the <a href="https://en.wikipedia.org/wiki/Law_of_noncontradiction" target="_blank">law of noncontradiction</a>. It's a prime rule for rationality. This rule states that 'A' can't be 'A' and 'non-A' at the same time and in the same relationship. This means that 2+2 can't equal 4 *and* 5. It has to be one, the other, or neither, but it can't be both.
 
-The same goes for morality. Behaviors are, objectively, either morally right or morally wrong. Morality is not subjective. Just because a murderer thinks they've done moral good for killing someone doesn't make it morally right for all people. Killing innocent people isn't right for anyone to do. Morality requires objectivity.
+The same goes for morality. Behaviors are, objectively, either morally right or morally wrong. Morality is not subjective. Just because a murderer thinks they've done moral good for killing an innocent person doesn't make it morally right for all people. Killing innocent people isn't right for anyone to do. Morality requires objectivity.
 
 Better yet, **truth** requires objectivity, and I think that's something atheists and Christians should agree on.
 
@@ -36,15 +36,15 @@ In a situation like that, if the colorblind person and I were both moral relativ
 
 ## Clear Morality Requires a Clear View of Reality
 
-Richard Dawkins, the arch-atheist of our generation, explains that he desires morals to be thought out, discussed, and argued. Sounds great, right? But, wait a second, what are we thinking, discussing, and arguing on the basis of? What is our basis for morality? Our individual thoughts?
+Richard Dawkins, the arch-atheist of our generation, explains that he desires morals to be thought out, discussed, and argued. Sounds great, right? But, wait a second, what are we basing our thinking, discussing, and arguing on? What is our basis for morality? Our individual thoughts?
 
-This same desire to strike moral gold was exactly what we tried to do in my undergraduate ethics classes. We would discuss, by logical means no less, what might be thought of as right or wrong outside of an objective moral law. The problem with this however was that not every secular viewpoint arrived at the same answers.
+This same desire to strike moral gold was exactly what we tried to do in my undergraduate ethics classes. We would discuss, by logical means no less, what might be thought of as right or wrong outside of an objective moral law. The problem with this however was that every secular viewpoint arrived at different answers.
 
 So then which one is the right one? The utilitarian worldview? The qualitative hedonism worldview? The eudaimonism worldview?
 
-In order for morality to be absolutely and objectively clear, it must be based a clear view of reality. And no one has a clearer view of reality than the Creator of reality itself—God.
+In order for morality to be absolutely and objectively clear, it must be based a clear view of reality. And no one has a clearer view of reality than the Creator of reality—God.
 
-## Do You Have a Clear Morals?
+## Do You Abide by Clear Morals?
 
 A couple of quick questions for you:
 
@@ -56,13 +56,13 @@ There's a 99.9% chance that you answered yes to all of those. So, let's do a qui
 
 If that's the case, then why would you want someone who's had lapses in moral judgement to be the one responsible for your basis of morality? Even Jesus, during his earthly ministry, didn't entrust himself to mankind, because he knew how evil we are at heart (John 2:24-25).
 
-It's because of your conscience that you know these things are wrong to begin with. That's why you felt a pang of guilt when you lied to your mother; that's why you felt horrified at the planes crashing into the World Trade Center. The conscience is God's moral law written on your heart, and atheists have no way of explaining it away. Conscience literally means "with knowledge", and it's because of your conscience that you know it's wrong to cheat on your spouse, or to lie, or to murder, or to steal.
+It's because of your conscience that you know these things are wrong to begin with. That's why you felt a pang of guilt when you lied to your mother; that's why you felt horrified at the planes crashing into the World Trade Center. The conscience is God's moral law written on your heart, and atheists have no way of explaining it away. "Conscience" literally means "with knowledge", and it's because of your conscience that you know it's wrong to cheat on your spouse, or to lie, or to murder, or to steal.
 
 > Romans 2:14–15 — **14** For when Gentiles, who do not have the law, by nature do what the law requires, they are a law to themselves, even though they do not have the law. **15** <mark>They show that the work of the law is written on their hearts</mark>, while their conscience also bears witness, and their conflicting thoughts accuse or even excuse them
 
 ## Some Good News
 
-The problem, as we've mentioned, is that we don't always follow our conscience. We lack one thing that would qualify us as perfect moral law makers, and that's perfect righteousness. And we lack that perfect righteousness because, "None is righteous, no, not one" (Romans 3:10).
+The problem, as we've mentioned, is that we don't always follow our conscience. We lack one thing that would qualify us as perfect moral law makers, and that's perfect righteousness. And we lack that perfect righteousness because, "None is righteous, no, not one" (Romans 3:10). We've all made mistakes.
 
 This is where I get to tell you the great news: you don't have to worry about writing your own moral law, because the one and only perfectly righteous God has already done that for us all. The Bible gives us a clear understanding of what is right and what is wrong.
 
@@ -72,7 +72,7 @@ We can't follow it perfectly. Actually, based on our earlier assessment, we've b
 
 But, what did God do for us so that we wouldn't have to be punished for breaking his moral law?
 
-He sent his only Son, Jesus Christ, to live a perfect and righteous life that we aren't able to live. Then, Christ was beaten and killed in order to take on the wrath and just punishment of God for our sins.
+He sent his only Son, Jesus Christ, to live a perfect and righteous life that we aren't able to live. Then, Christ was beaten and killed in order to take on the wrath and just punishment of God for *our* sins.
 
 Have you read John 3:16 recently? It goes like this:
 
@@ -80,21 +80,21 @@ Have you read John 3:16 recently? It goes like this:
 
 ## Repent and Trust
 
-Right now, if you haven't...
+If you haven't...
 
 1. Repented of your sin, and turned from your wicked ways
 2. Put your faith and trust in Jesus Christ
 
 ...then you have a guilty standing before Almighty God. But that can change today, in this very hour.
 
-All you have to do is repent—meaning express true remorse for all of your sins, and turn away from doing them—and put your faith and trust in Jesus Christ, the same way you'd put your trust in a parachute if you jumped from an airplane. You don't just shrug your shoulders and jump out of the plane, hoping the parachute works. No, you trust in it, knowing with faith that it's going to safely drop you at a slow speed of 5 mph instead of 70 mph.
+All you have to do is repent—meaning express true remorse for all of your sins, rejecting a sinful lifestyle—and put your faith and trust in Jesus Christ, the same way you'd put your trust in a parachute if you jumped from an airplane. You don't just shrug your shoulders and jump out of the plane, hoping the parachute works. No, you trust in it, knowing with faith that it's going to safely drop you at a slow speed of 5 mph instead of 70 mph.
 
 Would you please come to Christ today?
 
 Your desires to follow a subjective morality based on feelings will melt away if you trust in Christ. You will pass from death to life, and your moral worldview will be built on objective truth!
 
-But better than that, you'll have a right legal standing with God, because Jesus has paid your debt, and he'll grant you eternal life with him as a free gift.
+But, better than that, you'll have a right legal standing with God, because Jesus has paid your debt, and he'll grant you eternal life with him as a free gift.
 
-[Send me a message]({{ '/contact' | prepend: site.base_url }}) if you repented and put your trust in Jesus today!
+[Send me a message]({{ '/contact' | prepend: site.base_url }}) if you repented and put your trust in Jesus today.
 
-As for the rest of you, have a wonderful rest of your day, and may God bless you.
+As for the rest of you, have a wonderful rest of your day, and may God bless you!
