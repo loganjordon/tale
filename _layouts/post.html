@@ -52,7 +52,19 @@ layout: default
 
   {% if postable %}
     {% include tweet_share_button.html %} {% include facebook_share_button.html %}
-    <!-- {% include related.html %} -->
+    <hr>
+    {% include related.html %}
+    {% assign pli_array = pli_list | split: "/a>" %}
+    {% if pli_array.size >= 4 %}
+      <h3>Related Posts</h3>
+      <ul>
+      {% for pli in pli_list %}
+        {{ pli }}
+      {% endfor %}
+      </ul>
+    {% else %}
+      {% include recent.html %}
+    {% endif %}
   {% endif %}
 </div>
 

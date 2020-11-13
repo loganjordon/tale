@@ -1,13 +1,9 @@
-<p>
-If you liked this post, check out a few more down below. If you're interested in supporting me, follow me on <a target="_blank" href="{{ site.author.twitter }}">Twitter</a> and let me know what your thoughts are.
-</p>
-<h3>Related Posts</h3>
-<ul>
-	{% assign maxRelated = 4 %}
-  {% assign minCommonTags =  2 %}
-  {% assign maxRelatedCounter = 0 %}
+{% assign maxRelated = 4 %}
+{% assign minCommonTags =  2 %}
+{% assign maxRelatedCounter = 0 %}
+{% assign pli_list = [] %}
 
-  {% for post in site.posts %}
+{% for post in site.posts %}
 
   {% assign sameTagCount = 0 %}
   {% assign commonTags = '' %}
@@ -26,13 +22,16 @@ If you liked this post, check out a few more down below. If you're interested in
 
   {% if sameTagCount >= minCommonTags %}
 
-  {% include post-list-item.html %}
+    {% capture pli %}
+      {% include post-list-item.html %}
 
-    {% assign maxRelatedCounter = maxRelatedCounter | plus: 1 %}
-    {% if maxRelatedCounter >= maxRelated %}
-      {% break %}
-    {% endif %}
+      {% assign maxRelatedCounter = maxRelatedCounter | plus: 1 %}
+      {% if maxRelatedCounter >= maxRelated %}
+        {% break %}
+      {% endif %}
+
+    {% endcapture %}
+    {% assign pli_list = pli_list | append: pli %}
   {% endif %}
 
-  {% endfor %}
-</ul>
+{% endfor %}

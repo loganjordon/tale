@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Are You Sure You're Saved: 10 Questions for Self-Proclaiming Christians"
-tags: salvation Christ questions assurance preservation saints fruit
+tags: salvation Christ questions assurance preservation saints fruit christian
 image: "/assets/images/are-you-sure2.jpg"
 image_avif: "/assets/images/are-you-sure2.avif"
 ---
@@ -31,8 +31,6 @@ The sad fact is that there will be some who read this article who think they're 
 If you don't think you're saved, but want to be---send me an [email](/contact)! I would love to help you find Christ today.
 
 Here are ten questions that every self-proclaiming Christian should ask themself to confirm their salvation[^1].
-
-<br>
 
 ## 1. Do you engage in fellowship?
 
@@ -136,8 +134,6 @@ If you are a true Christian, you have 100% of the Holy Spirit in you always, and
 
 <a href="https://justinpeters.org/" target="_blank">Justin Peters</a> says "Scripture teaches that if you are a Christian, you're anointed... It's not a feeling, it's not a buzz, it's not an experience. It's a reality... There is no division of classes within Christianity..."
 
-<br>
-
 ## How did you do?
 
 1. Do you engage in fellowship?
@@ -163,9 +159,6 @@ Whether you're a Christian who has fallen away or someone who has never been sav
 
 > Romans 10:13 --- For “everyone who calls on the name of the Lord will be saved.” (ESV)
 
-<br>
-
-<hr>
-**Footnotes:**
+### Footnotes:
 
 [^1]: These questions were inspiried by Todd Friel's "Ten point test to see if you are saved".
