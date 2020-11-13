@@ -10,7 +10,7 @@ I recently had a conversation with an atheist friend of mine. At first, the conv
 
 Without hesitation, I told him something like, "Morals come from a moral law. You can't have a moral law without a moral law giver—namely, God."
 
-He didn't agree. But, of course, I didn't expect him to. Atheists suppress the truth, and their entire anti-Christ religion is centered on suppressing the ultimate truth: that God exists. So then, what *do* atheists believe as far as morality?
+He didn't agree—but, of course, I didn't expect him to. So then, it begs the question: what *do* atheists believe as far as morality?
 
 The answer, for many, is **moral relativism**.
 
@@ -18,7 +18,9 @@ People who believe moral relativism are those who say that what *you* think is t
 
 This is completely illogical, and it's not hard to see that.
 
-One of the first laws you learn in philosophy is the [law of noncontradiction](https://en.wikipedia.org/wiki/Law_of_noncontradiction). It's the prime rule for rationality. This rule states that 'A' can't be 'A' and 'non-A' at the same time and in the same relationship. This means that 2+2 can't equal 4 *and* 5. It has to be one, the other, or neither, but it can't be both.
+## Truth Requires Objectivity
+
+One of the first laws you learn in philosophy is the <a href="https://en.wikipedia.org/wiki/Law_of_noncontradiction" target="_blank">law of noncontradiction</a>. It's the prime rule for rationality. This rule states that 'A' can't be 'A' and 'non-A' at the same time and in the same relationship. This means that 2+2 can't equal 4 *and* 5. It has to be one, the other, or neither, but it can't be both.
 
 The same goes for morality. Behaviors are, objectively, either morally right or morally wrong. Morality is not subjective. Just because a murderer thinks they've done moral good for killing someone doesn't make it morally right for all people. Killing innocent people isn't right for anyone to do. Morality requires objectivity.
 
@@ -32,6 +34,8 @@ For example, you don't stop at a red light because it is only subjectively true 
 
 In a situation like that, if the colorblind person and I were both moral relativists, it would be my prerogative to let the colorblind person run the red light. If my truth statement was, "What you think is true is true for you," then I would be saying that it's true that a red light was green, even when it objectively wasn't. It would be (ironically) out of my "moral scope", as a relativist, to try to convince the colorblind person otherwise. Imagine the harm that would cause. I use this illustration to show you the absolute absurdity of believing in the relativity of truth. Things have to either be true or not true—and the same goes for morality.
 
+## Clear Morality Requires a Clear View of Reality
+
 Richard Dawkins, the arch-atheist of our generation, explains that he desires morals to be thought out, discussed, and argued. Sounds great, right? But, wait a second, what are we thinking, discussing, and arguing on the basis of? What is our basis for morality? Our individual thoughts?
 
 This same desire to strike moral gold was exactly what we tried to do in my undergraduate ethics classes. We would discuss, by logical means no less, what might be thought of as right or wrong outside of an objective moral law. The problem with this however was that not every secular viewpoint arrived at the same answers.
@@ -39,6 +43,8 @@ This same desire to strike moral gold was exactly what we tried to do in my unde
 So then which one is the right one? The utilitarian worldview? The qualitative hedonism worldview? The eudaimonism worldview?
 
 In order for morality to be absolutely and objectively clear, it must be based a clear view of reality. And no one has a clearer view of reality than the Creator of reality itself—God.
+
+## Do You Have a Clear Morals?
 
 A couple of quick questions for you:
 
@@ -53,6 +59,8 @@ If that's the case, then why would you want someone who's had lapses in moral ju
 It's because of your conscience that you know these things are wrong to begin with. That's why you felt a pang of guilt when you lied to your mother; that's why you felt horrified at the planes crashing into the World Trade Center. The conscience is God's moral law written on your heart, and atheists have no way of explaining it away. Conscience literally means "with knowledge", and it's because of your conscience that you know it's wrong to cheat on your spouse, or to lie, or to murder, or to steal.
 
 > Romans 2:14–15 — **14** For when Gentiles, who do not have the law, by nature do what the law requires, they are a law to themselves, even though they do not have the law. **15** <mark>They show that the work of the law is written on their hearts</mark>, while their conscience also bears witness, and their conflicting thoughts accuse or even excuse them
+
+## Some Good News
 
 The problem, as we've mentioned, is that we don't always follow our conscience. We lack one thing that would qualify us as perfect moral law makers, and that's perfect righteousness. And we lack that perfect righteousness because, "None is righteous, no, not one" (Romans 3:10).
 
@@ -70,6 +78,8 @@ Have you read John 3:16 recently? It goes like this:
 
 > For God so loved the world, that he gave his only Son, that whoever believes in him should not perish but have eternal life.
 
+## Repent and Trust
+
 Right now, if you haven't...
 
 1. Repented of your sin, and turned from your wicked ways
@@ -85,6 +95,6 @@ Your desires to follow a subjective morality based on feelings will melt away if
 
 But better than that, you'll have a right legal standing with God, because Jesus has paid your debt, and he'll grant you eternal life with him as a free gift.
 
-[Send me a message](/contact) if you repented and put your trust in Jesus today!
+[Send me a message]({{ '/contact' | prepend: site.base_url }}) if you repented and put your trust in Jesus today!
 
 As for the rest of you, have a wonderful rest of your day, and may God bless you.
