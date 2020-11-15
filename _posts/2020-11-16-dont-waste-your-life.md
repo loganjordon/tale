@@ -4,6 +4,7 @@ title: "Don't Waste Your Life"
 tags: john piper life christ christian christianity
 image: "/assets/images/shell.jpg"
 image_avif: "/assets/images/shell.avif"
+published: false
 ---
 
 The video below is really meaningful to me. For years, I tried planning a life where I could retire young. What I thought of as a life well lived was getting rich quick off of an iPhone app, making money off of ads, and then never having to work again.
