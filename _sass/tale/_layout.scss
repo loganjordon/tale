@@ -115,3 +115,15 @@ footer {
     display: inline-block;
   }
 }
+
+.iframeVideo {
+  height: 0px;
+  /*padding-top: 25px;*/
+  padding-bottom: 56.3%;
+  position: relative;
+}
+.iframeVideo iframe {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+}
