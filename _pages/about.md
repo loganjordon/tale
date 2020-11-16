@@ -20,7 +20,7 @@ image_avif: "/assets/images/l-cropped2.avif"
 ## Who am I?
 Howdy, I'm Logan Jordon.
 
-I am a Christian, a Calvinist, a software developer, a writer, and a dungeon master. I am a computer science graduate from the University of Arkansas and a lifetime student of God's Word. I reside in Northwest Arkansas with my wife of {{ yearsSince }}.{{ modulus }} years.
+I am a Christian, a software developer, a writer, and a dungeon master. I am a computer science graduate from the University of Arkansas and a lifetime student of God's Word. I reside in Northwest Arkansas with my wife of {{ yearsSince }}.{{ modulus }} years.
 
 ## My Mission?
 To write with the aim of increasing your knowledge of the Lord, and your desire to know him personally. Here you will find articles, anecdotes, and analyses of various topics. From theology to living the daily Christian life, it is my prayer that my writing would convict, challenge, and encourage you.
