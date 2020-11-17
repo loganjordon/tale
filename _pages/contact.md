@@ -6,9 +6,7 @@ permalink: /contact
 
 <form action="https://getsimpleform.com/messages?form_api_token=e7e8d755eef01729692b3f4035b20e0e" method="post">
 	<input type='hidden' name='redirect_to' value="https://www.loganjordon.com/success" />
-	<!-- <input type='hidden' name='redirect_to' value="http://localhost:4000/success" /> -->
-	
-From:
+Email:
 	<input class="email" type='email' name='email' autocomplete="off" placeholder="Email" required/>
 	<br>
 	<br>
