@@ -17,7 +17,6 @@ image_avif: "/assets/images/l-cropped2.avif"
 {%   assign divisor = 365   %}
 {%   assign modulus = daysSince | modulo: 365 | times: k | divided_by: divisor  %}
 
-## Who am I?
 Howdy, I'm Logan Jordon.
 
 I am a Christian, a software developer, a writer, and a dungeon master. I am a computer science graduate from the University of Arkansas and a lifetime student of God's Word. I reside in Northwest Arkansas with my wife of {{ yearsSince }}.{{ modulus }} years.

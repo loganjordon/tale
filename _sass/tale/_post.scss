@@ -40,6 +40,18 @@
     text-decoration: underline;
   }
 
+  &-hero {
+    max-height: 340px;
+    overflow: hidden;
+    align-items: center;
+    /*border-radius: 10px;*/
+    display: flex;
+    justify-content: center;
+    @media (min-width: 600px) {
+      max-height: 400px;
+    }
+  }
+
   img {
     margin: 0 auto 0.5rem;
   }

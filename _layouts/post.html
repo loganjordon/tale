@@ -36,16 +36,19 @@ layout: default
     {% endif %}
   </div>
 
-  <!-- AVIF image support -->
-  {% if page.image_avif and page.image %}
-    <picture>
-      <source srcset="{{ page.image_avif }}" type="image/avif">
+  {% if page.image %}
+  <div class="post-hero">
+    <!-- AVIF image support -->
+    {% if page.image_avif and page.image %}
+      <picture>
+        <source srcset="{{ page.image_avif }}" type="image/avif">
+        <img src="{{ page.image }}">
+      </picture>
+    {% else %}
       <img src="{{ page.image }}">
-    </picture>
-    <br>
-  {% elsif page.image %}
-    <img src="{{ page.image }}">
-    <br>
+    {% endif %}
+  </div>
+  <br>
   {% endif %}
 
   {{ content }}
