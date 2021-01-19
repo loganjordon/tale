@@ -5,9 +5,7 @@
     display: block;
     padding: 2rem;
     margin: 1rem 0;
-    box-shadow: 
-      8px 8px 12px 0 #ccc,
-      -8px -8px 12px 0 #e7e7e7;
+    border: $grey-1 solid 1px;
     border-radius: 16px;
 
     &:hover .catalogue-line,
@@ -21,7 +19,7 @@
     }
 
     &:last-child {
-      border: 0;
+      /*border: 0;*/
     }
   }
 
@@ -52,7 +50,7 @@
     height: 140px;
     overflow: hidden;
     align-items: center;
-    /*border-radius: 10px;*/
+    border-radius: 10px;
     display: flex;
     justify-content: center;
     @media (min-width: 600px) {
