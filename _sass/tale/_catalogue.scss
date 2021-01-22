@@ -1,17 +1,25 @@
 .catalogue {
   &-item {
-    border-bottom: 1px solid $grey-2;
+    /*border-bottom: 1px solid $grey-2;*/
     color: $default-color;
     display: block;
-    padding: 2rem 0;
+    padding: 1rem;
+    margin: 1rem 0;
+    border: $grey-1 solid 1px;
+    border-radius: 16px;
 
     &:hover .catalogue-line,
     &:focus .catalogue-line {
       width: 5rem;
     }
 
+    &:hover .catalogue-crop,
+    &:focus .catalogue-crop {
+      opacity: .6;
+    }
+
     &:last-child {
-      border: 0;
+      /*border: 0;*/
     }
   }
 
@@ -35,5 +43,18 @@
     border-top: .2rem solid $default-shade;
     display: block;
     width: 2rem;
+  }
+
+  &-crop {
+    @include transition(all .3s ease-out);
+    height: 120px;
+    overflow: hidden;
+    align-items: center;
+    border-radius: 16px;
+    display: flex;
+    justify-content: center;
+    @media (min-width: 600px) {
+      height: 200px;
+    }
   }
 }
