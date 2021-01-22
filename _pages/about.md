@@ -19,12 +19,10 @@ image_avif: "/assets/images/l-cropped2.avif"
 
 Howdy, I'm Logan Jordon.
 
-I am a Christian, a software developer, a writer, and a dungeon master. I am a computer science graduate from the University of Arkansas and a lifetime student of God's Word. I reside in Northwest Arkansas with my wife of {{ yearsSince }}.{{ modulus }} years.
+I am a Christian, a software developer, a writer, a computer science graduate from the University of Arkansas, and a lifetime student of God's Word. I reside in Northwest Arkansas with my wife of {{ yearsSince }}.{{ modulus }} years.
 
-## My Mission?
-To write with the aim of increasing your knowledge of the Lord, and your desire to know him personally. Here you will find articles, anecdotes, and analyses of various topics I find interesting, ranging from systematic theology to living the daily Christian life.
+I write with the aim of increasing your knowledge of the Lord, and your desire to know Jesus Christ personally. Here you will find articles, anecdotes, and analyses of various topics I find interesting, ranging from systematic theology to living the daily Christian life—plus the occasional YouTube video I think you should watch.
 
 <a href="http://eepurl.com/heJUTb" target="_blank">Subscribe</a> to get my latest posts mailed directly to your inbox!
 
-## Have a question, comment, or prayer request?
-Send me an [message]({{ '/contact' | prepend: site.base_url }})!
+Have a question, comment, or prayer request? Send me a [message]({{ '/contact' | prepend: site.base_url }})!
