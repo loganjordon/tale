@@ -44,7 +44,7 @@
     max-height: 340px;
     overflow: hidden;
     align-items: center;
-    /*border-radius: 10px;*/
+    border-radius: 16px;
     display: flex;
     justify-content: center;
     @media (min-width: 600px) {
@@ -54,6 +54,7 @@
 
   img {
     margin: 0 auto 0.5rem;
+    border-radius: 16px;
   }
 
   img + em {
