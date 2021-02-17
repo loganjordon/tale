@@ -162,4 +162,4 @@ Remember to read over these Resolutions once a week.
 
 <hr>
 
-If you're like me, and want to use a printed-out copy of these Resolutions, [then click here for the pdf]({{ '/assets/resolutions.pdf' | prepend: site.base_url }}).
+If you're like me, and want to use a printed-out copy of these Resolutions, [then click here for the pdf]({{ '/assets/Resolutions.pdf' | prepend: site.base_url }}).
